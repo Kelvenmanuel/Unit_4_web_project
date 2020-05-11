@@ -53,3 +53,5 @@
 Site: http://localhost:63342/Unit_4_web_project/1stpersonalWenPage.html?_ijt=5e6pfvtj9qe59pndabbunvusac
 
 Some images of the basic page:
+![planning](foto.png)
+![planning](foto2.png)
