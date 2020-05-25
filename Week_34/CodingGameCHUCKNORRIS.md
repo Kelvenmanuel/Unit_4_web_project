@@ -41,4 +41,6 @@ https://towardsdatascience.com/hiding-data-in-an-image-image-steganography-using
 
 https://stackoverflow.com/questions/38617330/split-string-into-chunks-of-same-letters 
 ###re.findall
+
+
 ![planning](dois.png)
